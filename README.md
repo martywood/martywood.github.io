@@ -20,6 +20,8 @@ Google Fonts: font-family: 'Lato', sans-serif;
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
 
+IMG_2643.png Photo taken by Amanda Fine, 2022 in Wyoming, USA.
+
 ## LICENSE
 MIT License
 
